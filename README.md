@@ -1,4 +1,4 @@
-[![MasterHead](https://iatkv.tmgrup.com.tr/6108ed/616/321/0/48/1200/673?u=https%3a%2f%2fitkv.tmgrup.com.tr%2f2023%2f04%2f09%2ftrabzonspordan-kotu-gidise-iliskin-aciklama-1681056523735.jpg)
+[![MasterHead](https://c4.wallpaperflare.com/wallpaper/645/96/47/python-programming-programming-programming-language-code-hd-wallpaper-preview.jpg)
 
 <h1 align="center">Hi 👋, I'm Oğulcan AKYAZI</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
