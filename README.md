@@ -16,3 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ogulcanakyazi&show_icons=true&locale=en" alt="ogulcanakyazi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogulcanakyazi&" alt="ogulcanakyazi" /></p>
+
+
+![snake gif](https://github.com/ogulcanakyazi/ogulcanakyazi/blob/output/github-contribution-grid-snake.gif)
